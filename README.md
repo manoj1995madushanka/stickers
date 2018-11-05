@@ -14,3 +14,5 @@ To get started, review the README files in the [Android](https://github.com/What
 
 ## License
 WhatsApp Stickers is BSD licensed, as found in the LICENSE file.
+
+#for learn how to use this repository please go : https://cyberpuskola.000webhostapp.com/2018/11/05/%E0%B6%AD%E0%B6%B1%E0%B7%92%E0%B7%80%E0%B6%B8-whatsapp-sticker-pack-%E0%B6%91%E0%B6%9A%E0%B6%9A%E0%B7%8A-%E0%B7%84%E0%B6%AF%E0%B7%8F-%E0%B6%9C%E0%B6%B8%E0%B7%94/?fbclid=IwAR2dQO5aLx0ZFhqxOlpkBE7b42CxW7AVZ7r2E8XeNAqHr23AV50VEVlJNCs
